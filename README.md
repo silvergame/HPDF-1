@@ -28,7 +28,7 @@ HPDF-1/
       Search.js
       Pic2.jpg
     App.css
-    App.js //
+    App.js
     App.test.js
     index.css
     index.js
