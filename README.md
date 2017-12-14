@@ -37,6 +37,6 @@ HPDF-1/
 ### Installation Instructions
 * Install Node.js and npm in your system.
 * Install create-react-app in your system.
-* git clone this repository and install the node modules using npm Install
-* to run the app, use npm start
-* by default, app opens on the main timeline page. But to run search results, replace <Homepage/> to <Search/> in the app.js file.
+* git clone this repository and install the node modules using npm install
+* To run the app, use npm start
+* By default, app opens on the main timeline page. But to view search results, replace <Homepage/> to <Search/> in the app.js file.
