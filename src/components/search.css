@@ -1,0 +1,99 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: lightblue;
+
+}
+
+.thirdbar,
+.common {
+    overflow: hidden;
+    font-family: Arial;
+}
+
+.thirdbar a {
+    float: left;
+    font-size: 16px;
+    color: #03A9F4;
+
+    text-align: center;
+    padding: 20px 15px;
+    text-decoration: none;
+
+}
+
+.common a:hover {
+    text-decoration: underline;
+}
+
+.thirdbar a:hover,
+.active {
+    background-color: #3F51B5;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    text-align: left;
+    font-size: 18px;
+    color: #03A9F4;
+}
+
+.list a:hover {
+    text-decoration: underline;
+}
+
+.common a {
+    float: left;
+    font-size: 14px;
+    color: #E3F2FD;
+
+    text-align: center;
+    padding: 20px 10px;
+    text-decoration: none;
+}
+
+.list a {
+
+    color: #03A9F4;
+    text-decoration: none;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+.lefta:hover {
+    transform: skew(-10deg);
+}
+
+.sectool {
+    font-weight: bold;
+    margin-left: 40px;
+}
+
+.navbar {
+    overflow: hidden;
+    font-family: Arial;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: #03A9F4;
+
+    text-align: center;
+    padding: 14px 45px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.navbar a:hover {
+    background-color: #3F51B5;
+}
