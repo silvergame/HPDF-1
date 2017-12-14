@@ -35,6 +35,7 @@ HPDF-1/
     logo.svg
 ``` 
 ### Installation Instructions
+**Follow these instructions to get the code working on your machines locally**
 * Install Node.js and npm in your system.
 * Install create-react-app in your system.
 * git clone this repository and install the node modules using npm install
