@@ -1,16 +1,19 @@
 import React, { Component } from 'react';
 
-import homepage from './components/homepage.js';
-import search from './components/search.js';
+import Homepage from './components/Homepage.js';
+import Search from './components/Search.js';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import './App.css';
+/*
+In the render method change <Homepage/> to <Search/> to view Search page for aadhaar.....
 
+*/
 class App extends Component {
   render() {
     return (
 <MuiThemeProvider>
         <div>
-          <homepage />
+          <Homepage />
         </div>
       </MuiThemeProvider>
     );

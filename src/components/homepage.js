@@ -1,4 +1,4 @@
-import './homepage.css';
+import './Homepage.css';
 import lightBaseTheme from 'material-ui/styles/baseThemes/lightBaseTheme';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
@@ -60,7 +60,7 @@ function handleClick() {
     alert('You clicked the Chip.');
 }
 
-export default class homepage extends React.Component {
+export default class Homepage extends React.Component {
     state = {
         dataSource: [],
     };
@@ -241,18 +241,9 @@ export default class homepage extends React.Component {
             <
             CardText >
 
+            <p className = 'common' >Tweets Following Followers
             <
-            div className = "common" >
-            <
-            a href = "#" > < b > Tweets < /b></a >
-            <
-            a href = "#" > < b > Following < /b></a >
-            <
-            a href = "#" > < b > Followers < /b></a >
-
-            <
-            /div> <
-            p className = 'counts' > < b > 9 8 7 < /b></p >
+            /p> <p className = 'counts' > < b > 9 8 7 < /b></p >
             <
             /CardText> < /
             Card > <
@@ -291,8 +282,7 @@ export default class homepage extends React.Component {
             li > < a href = "#" > #India(7 k Tweets) < /a></li >
             <
             li > < a href = "#" > #Sunday(6 k Tweets) < /a></li >
-            <
-            li > < a href = "#" > #Legislative(5.5 k Tweets) < /a></li >
+        
 
             <
             /ul> < /
