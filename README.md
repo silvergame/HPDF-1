@@ -40,7 +40,7 @@ HPDF-1/
 * Install create-react-app in your system.
 * git clone this repository and install the node modules using npm install
 * To run the app, use npm start
-* By default, app opens on the main timeline page. But to view search results, replace <Homepage/> to <Search/> in the app.js file.
+* By default, app opens on the main timeline page. But to view search results, replace '<Homepage/>' to '<Search/>' in the app.js file.
 
 ## Contributors
 [silvergame](https://github.com/silvergame)
