@@ -1,6 +1,6 @@
 ## HPDF Task 1 (ReactJS Front End)
 
-### To Do
+### The Task
 **Create a twitter account to use as reference and use [Material UI](http://www.material-ui.com) to create a new ReactJS app with only the following pages:**
 * [Twitter timeline](https://twitter.com)
 * [Twitter Search Results](https://twitter.com/search?q=aadhaar)
@@ -35,7 +35,7 @@ HPDF-1/
     logo.svg
 ``` 
 ### Installation Instructions
-**Follow these instructions to get the code working on your machines locally**
+**Follow these instructions to get the code working on your machines locally. (Chrome web browser is preferred)**
 * Install Node.js and npm in your system.
 * Install create-react-app in your system.
 * git clone this repository and install the node modules using npm install
