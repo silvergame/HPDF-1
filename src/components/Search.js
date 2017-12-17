@@ -1,6 +1,6 @@
 import './Search.css';
-import './Adhr.jpg';
-import './Pic2.jpg';
+import './adhr.jpg';
+import './pic2.jpg';
 import React, { Component } from 'react';
 import lightBaseTheme from 'material-ui/styles/baseThemes/lightBaseTheme';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
@@ -442,7 +442,7 @@ export default class search extends React.Component {
                                             Finally. Good news from @UIDAI 
                                             <br /><br />
                                             If your Aadhaar Card is not linked with your marriage certificate before 31st December 2017, you will be considered single from 1st Jan 2018.
-                                        <img src={require('./Pic2.jpg')} width="500" height="350" alt="aadhaar" />
+                                        <img src={require('./pic2.jpg')} width="500" height="350" alt="aadhaar" />
                                         <div className="common">
                                             <a href="#"><b>Comments</b></a>
                                             <a href="#"><b>Re-tweets</b></a>
@@ -501,7 +501,7 @@ export default class search extends React.Component {
                                         <br/>
                                         Bank=UIDAI
                                         Card=biometrics
-                                        <img src={require('./Adhr.jpg')} width="500" height="350" alt="aadhar" />
+                                        <img src={require('./adhr.jpg')} width="500" height="350" alt="aadhar" />
                                         <div className="common">
                                             <a href="#"><b>Comments</b></a>
                                             <a href="#"><b>Re-tweets</b></a>
