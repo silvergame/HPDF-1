@@ -21,12 +21,12 @@ HPDF-1/
     favicon.ico
   src/
     Components/
-      Adhr.jpg
+      adhr.jpg
       Homepage.css
       Homepage.js
       Search.css
       Search.js
-      Pic2.jpg
+      pic2.jpg
     App.css
     App.js
     App.test.js
